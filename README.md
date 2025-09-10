@@ -1,6 +1,5 @@
 # 💫 About Me:
-🎯 Working on: Proyectos de DAM y apps móviles.<br>🤝 Collaborating on: Apps Android y software creativo.<br>🙋‍♂️ Need help with: Backend y bases de datos.<br>🌱 Learning: Kotlin y desarrollo Android.<br>💬 Ask me about: POO y apps móviles.<br>⚡ Fun fact: Me encanta desarmar gadgets.
-
+🎯 Working on: DAM projects and mobile apps.<br>🤝 Collaborating on: Apps Android y creative software.<br>🙋‍♂️ Need help with: Backend and databases.<br>🌱 Learning: Python and Android developing.<br>💬 Ask me about: Java and JS.<br>⚡
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/hugoorar/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hugo-solis-torrijos-bab456297/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://www.twitch.tv/sadesuuu) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/hugoorar) 
