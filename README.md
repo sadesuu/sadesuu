@@ -1,5 +1,5 @@
 # 💫 About Me:
-Multiplatform Application Development student passionate about building clean, user-focused multiplatform apps; currently learning version control, modern frameworks, and documentation best practices while creating small projects, contributing to open source, and growing a portfolio that showcases real-world features and solid code.
+Multiplatform Application Development student passionate about building clean, user-focused multiplatform apps; currently learning version control, modern frameworks, and documentation best practices while creating small projects, contributing to open source, and growing a portfolio that showcases real-world features and solid code
 
 [1](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
 [2](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/about-your-profile)
