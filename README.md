@@ -1,17 +1,6 @@
 # 💫 About Me:
-Multiplatform Application Development student passionate about building clean, user-focused multiplatform apps; currently learning version control, modern frameworks, and documentation best practices while creating small projects, contributing to open source, and growing a portfolio that showcases real-world features and solid code
+Multiplatform Application Development student passionate about building clean, user-focused multiplatform apps; currently learning version control, modern frameworks, and documentation best practices while creating small projects, contributing to open source, and growing a portfolio that showcases real-world features and solid code.
 
-[1](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
-[2](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/about-your-profile)
-[3](https://www.reddit.com/r/datascience/comments/7ycvv3/what_does_a_good_githubportfolio_for_data_science/)
-[4](https://skepfoundation.github.io/pages_course/lessons/unit_01/lesson_04/lesson_04.html)
-[5](https://www.reddit.com/r/learnprogramming/comments/8u8rrv/what_should_a_github_repo_include_what_is_the/)
-[6](https://usernamehacktoberfest.github.io/my_awesome_intro/)
-[7](https://profile-readme-generator.com/blog/how-to-write-the-perfect-github-profile-readme)
-[8](https://education.launchcode.org/career-readiness/online-profiles/github-profile.html)
-[9](https://www.codu.co/articles/writing-your-github-profile-crfvsyjz)
-[10](https://smartpeopleiknow.com/2016/08/10/a-simple-tutorial-to-set-up-an-about-me-site-on-github/)
-Soy un estudiante de Desarrollo de Aplicaciones Multiplataforma.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/hugoorar/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-solis-torrijos-bab456297/)
 # 💻 Tech Stack:
